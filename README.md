@@ -9,10 +9,10 @@ Throughout this course, I learned how different data structures and algorithms a
 ## Repository Structure
 
 ### Project One
-Project One focuses on algorithm design, pseudocode, runtime analysis, and comparing different data structures to determine the best solution for an academic course advising system.
+Project One focuses on designing and evaluating data structures through algorithm design, pseudocode, and runtime analysis.
 
 ### Project Two
-Project Two is a fully functional C++ academic advising application that allows users to:
+Project Two implements a C++ academic advising application using a Binary Search Tree to efficiently store, search, and display course information.
 
 - Load course data from a CSV file
 - Print all courses in alphanumeric order
